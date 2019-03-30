@@ -7,4 +7,4 @@ This is an example site for the Intro to Front-end Web Development Course at Fla
 
 # Contact
 
-email: jon@flatironschool.com
+email: shixiang.ren@flatironschool.com
